@@ -12,6 +12,7 @@ import org.junit.Test;
 import by.htp.db.dao.impl.BookMySqlDAO;
 import by.htp.db.domain.entity.Book;
 
+//Test Class
 public class BookMySqlDaoTest {
 
 	private static BookDao bookDao;
